@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Shri Ram Temple Annakshetra",
+    "category": "Annaprasad",
+    "timing": "11:00 AM - 3:30 PM",
+    "status": "Free Meals Active",
+    "contact": "+91-9876543210"
+  },
+  {
+    "id": 2,
+    "name": "District Emergency Trauma Center",
+    "category": "Hospital",
+    "timing": "24/7",
+    "status": "Open",
+    "contact": "108"
+  },
+  {
+    "id": 3,
+    "name": "Yatra Assistance & Scam Helpdesk",
+    "category": "Help Center",
+    "timing": "24/7",
+    "status": "Active Duty",
+    "contact": "112"
+  },
+  {
+    "id": 4,
+    "name": "Shanti Community Annachatram",
+    "category": "Annachatram",
+    "timing": "12:00 PM - 9:00 PM",
+    "status": "Serving",
+    "contact": "+91-9123456780"
+  },
+  {
+    "id": 5,
+    "name": "Govt Disaster Shelter Zone A",
+    "category": "Rescue Shelter",
+    "timing": "24/7",
+    "status": "Capacity: 60% Free",
+    "contact": "1077"
+  }
+]
