@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **Framework**: [React.js](https://reactjs.org/) (v18)
+- **Framework**: [React.js](https://reactjs.org/) (v18) built with **Vite** ⚡
 - **Routing**: [React Router](https://reactrouter.com/) (v7)
 - **Animations**: [Framer Motion](https://www.framer.com/motion/)
 - **Icons**: [Lucide React](https://lucide.dev/)
@@ -35,8 +35,10 @@ rahbar-project/
 │   ├── src/
 │   │   ├── components/   # Reusable UI components
 │   │   ├── i18n/         # Internationalization & translations
-│   │   ├── App.js        # Main application routing and state
-│   │   └── index.js      # React entry point
+│   │   ├── App.jsx       # Main application routing and state
+│   │   └── index.jsx     # React entry point
+│   ├── index.html        # Vite entry HTML
+│   ├── vite.config.js    # Vite configuration
 │   └── package.json      # Frontend dependencies
 ├── backend/              # Python FastAPI backend
 │   ├── routers/          # API route handlers
